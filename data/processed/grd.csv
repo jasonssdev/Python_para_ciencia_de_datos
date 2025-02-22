@@ -1,0 +1,11 @@
+ID GRD,Nombre GRD,Costo resolución en Clínica Privada [MM$]
+GRD1,Coronario,7.917
+GRD2,Hepático,3.417
+GRD3,Respiratorio,2.915
+GRD4,Renal,6.188
+GRD5,Neurológico,6.782
+GRD6,Traumatológico,4.881
+GRD7,Esofágico,2.629
+GRD8,Oftalmológico,6.72
+GRD9,Circulatorio,5.524
+GRD10,Intestinal,7.916

@@ -1,0 +1,22 @@
+Nombre Servicio de Salud,Nombre Establecimiento,Área Cuidados Intensivos Adultos,Área Cuidados Intermedios Adulto,Total Camas Críticas,Máxima cantidad de camas a aumetar,Costo de instalar una cama [MM$],Costo de operación anual de una cama [MM$],Costo diario GRD1 [MM$],Costo diario GRD2 [MM$],Costo diario GRD3 [MM$],Costo diario GRD4 [MM$],Costo diario GRD5 [MM$],Costo diario GRD6 [MM$],Costo diario GRD7 [MM$],Costo diario GRD8 [MM$],Costo diario GRD9 [MM$],Costo diario GRD10 [MM$]
+Metropolitano Norte                               ,Complejo Hospitalario San José,11,33,44,10,1407,47.2,0.593,0.509,0.367,0.492,0.524,0.405,0.571,0.474,0.498,0.305
+Metropolitano Occidente                           ,Hospital Adalberto Steeger (Talagante),6,11,17,5,1263,62.1,0.493,0.357,0.429,0.382,0.469,0.386,0.543,0.362,0.564,0.333
+Metropolitano Occidente                           ,Hospital Dr. Félix Bulnes Cerda,3,6,9,5,1310,65.9,0.58,0.325,0.375,0.409,0.561,0.362,0.328,0.314,0.536,0.436
+Metropolitano Occidente                           ,Hospital San Juan de Dios,29,47,76,30,1066,39.2,0.482,0.554,0.564,0.331,0.438,0.509,0.544,0.41,0.441,0.359
+Metropolitano Occidente                           ,Instituto Traumatológico Dr. Teodoro Gebauer,12,6,18,5,1433,55.5,0.407,0.449,0.468,0.433,0.573,0.392,0.409,0.391,0.418,0.334
+Metropolitano Central                             ,Hospital Clínico San Borja-Arriarán,17,26,43,10,1347,63.1,0.509,0.363,0.575,0.534,0.367,0.567,0.576,0.482,0.32,0.574
+Metropolitano Central                             ,Hospital de Urgencia Asistencia Pública Dr. Alejandro del Río,24,20,44,10,1256,44.5,0.468,0.509,0.343,0.391,0.39,0.404,0.457,0.411,0.33,0.568
+Metropolitano Central                             ,Hospital el Carmen,6,12,18,4,1368,49.7,0.444,0.439,0.386,0.569,0.404,0.416,0.302,0.414,0.494,0.425
+Metropolitano Oriente                             ,Hospital Del Salvador,22,24,46,12,1075,45.4,0.444,0.339,0.345,0.544,0.458,0.531,0.34,0.491,0.377,0.443
+Metropolitano Oriente                             ,Hospital Dr. Luis Tisné B.,8,16,24,8,1056,56.2,0.386,0.477,0.491,0.312,0.452,0.362,0.435,0.305,0.482,0.421
+Metropolitano Oriente                             ,Instituto de Neurocirugía Dr. Alfonso Asenjo,12,11,23,8,1256,36.6,0.376,0.481,0.476,0.407,0.573,0.302,0.535,0.52,0.407,0.42
+Metropolitano Oriente                             ,Instituto Nacional de Enfermedades Respiratorias y Cirugía Torácica,15,29,44,15,1422,63.0,0.498,0.465,0.482,0.512,0.597,0.39,0.302,0.566,0.428,0.439
+Metropolitano Sur                                 ,Hospital Barros Luco Trudeau,31,43,74,25,1319,42.9,0.551,0.339,0.587,0.416,0.545,0.306,0.347,0.548,0.501,0.419
+Metropolitano Sur                                 ,Hospital de Enfermedades Infecciosas Dr. Lucio Córdova,11,9,20,5,1193,61.6,0.54,0.407,0.59,0.492,0.458,0.361,0.42,0.452,0.331,0.33
+Metropolitano Sur                                 ,Hospital Dr. Exequiel González Cortés,23,8,31,5,1304,51.9,0.398,0.343,0.454,0.493,0.489,0.444,0.323,0.572,0.5,0.31
+Metropolitano Sur                                 ,Hospital El Pino,12,20,32,9,1074,66.1,0.546,0.599,0.55,0.383,0.569,0.442,0.543,0.504,0.59,0.549
+Metropolitano Sur                                 ,Hospital Parroquial de San Bernardo      ,6,10,16,4,1051,47.0,0.541,0.546,0.533,0.411,0.534,0.466,0.313,0.5,0.523,0.31
+Metropolitano Sur Oriente                         ,Complejo Hospitalario Dr. Sótero del Río  ,20,35,55,12,1203,40.6,0.56,0.388,0.584,0.458,0.451,0.595,0.336,0.525,0.472,0.403
+Metropolitano Sur Oriente                         ,Hospital Clínico de la Florida,9,15,24,5,1028,60.0,0.527,0.552,0.431,0.594,0.331,0.341,0.58,0.528,0.537,0.505
+Metropolitano Sur Oriente                         ,Hospital Metropolitano ( ex Militar ),12,20,32,5,1093,46.3,0.549,0.553,0.471,0.346,0.582,0.331,0.456,0.394,0.41,0.563
+Metropolitano Sur Oriente                         ,Hospital Padre Alberto Hurtado (San Ramón),6,10,16,5,1166,43.2,0.479,0.579,0.387,0.509,0.571,0.516,0.584,0.382,0.462,0.424
